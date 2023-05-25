@@ -1,2 +1,2 @@
-Title- Shopme ---
+Shopme ---
 e-commerce shopping website in React js
