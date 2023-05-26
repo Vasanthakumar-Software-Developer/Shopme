@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shopme/static/css/main.5ffb6d7f.css",
-    "main.js": "/Shopme/static/js/main.71ab4b5e.js",
+    "main.css": "/Shopme/static/css/main.a4ec37e5.css",
+    "main.js": "/Shopme/static/js/main.40068474.js",
     "static/js/787.fc44fc8b.chunk.js": "/Shopme/static/js/787.fc44fc8b.chunk.js",
     "static/media/Vegetables.png": "/Shopme/static/media/Vegetables.1a66c254c3fb15ba0491.png",
     "static/media/grocery.png": "/Shopme/static/media/grocery.7d0b31d48014cee85587.png",
@@ -15,12 +15,12 @@
     "static/media/171146183.jpg": "/Shopme/static/media/171146183.035376b16e7fbee0bea9.jpg",
     "static/media/Electronics.webp": "/Shopme/static/media/Electronics.7f4ecf5715172e52c374.webp",
     "index.html": "/Shopme/index.html",
-    "main.5ffb6d7f.css.map": "/Shopme/static/css/main.5ffb6d7f.css.map",
-    "main.71ab4b5e.js.map": "/Shopme/static/js/main.71ab4b5e.js.map",
+    "main.a4ec37e5.css.map": "/Shopme/static/css/main.a4ec37e5.css.map",
+    "main.40068474.js.map": "/Shopme/static/js/main.40068474.js.map",
     "787.fc44fc8b.chunk.js.map": "/Shopme/static/js/787.fc44fc8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ffb6d7f.css",
-    "static/js/main.71ab4b5e.js"
+    "static/css/main.a4ec37e5.css",
+    "static/js/main.40068474.js"
   ]
 }
